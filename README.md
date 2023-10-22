@@ -4,6 +4,8 @@ This project is a QR code generator created using HTML, CSS, and JavaScript. It 
 
 # Demo
 
+![Qr Code](https://github.com/UmitAygunn/QR-Code-Generator/assets/140657845/8514be61-0906-4bc7-83c3-27f71731e239)
+
 Live Demo - Try out the live demo of the QR code generator to create QR codes for your favorite websites or URLs.
 1) https://6533940a42df0602e51578da--fluffy-sable-5ca4e4.netlify.app/
 
